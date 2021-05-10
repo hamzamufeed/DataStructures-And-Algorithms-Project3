@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1558008487 source:c:\users\intel-pc\desktop\project 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<strings.h>
+	<string.h>
+	"AVLTree.h"
+
+1558008566 c:\users\intel-pc\desktop\project 3\avltree.h
+
